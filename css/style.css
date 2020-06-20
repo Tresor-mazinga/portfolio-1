@@ -1,0 +1,192 @@
+
+
+/*------ Import Google_Fonts--------*/
+
+@import url(./fonts.css);
+
+/**    Css Variables */
+@import url(./partials/variables.css);
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;600&family=Roboto:wght@100;400&display=swap');
+
+/*------ Start Navbar ------------*/
+.header_area .main-menu .navbar .navbar-brand{
+    padding: 0 0.5rem 0 1rem;
+}
+.header_area .main-menu .navbar{
+    padding: 1rem 1rem;
+}
+.header_area .main-menu .nav-item .nav-link{
+    font-family: 'Rajdhani', sans-serif;
+    text-transform: uppercase;
+    padding: 1.7rem;
+    color: var(--title-color);
+}
+.header_area .main-menu .navbar-nav .active a{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    background-clip:text ;
+    font-weight: 600;
+}
+.header_area .main-menu .navbar .navbar-brand{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    background-clip:text ;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+}
+.header_area .main-menu .navbar-nav a:hover{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    background-clip:text ;
+    border-left: 1px solid #4458dc ;
+    border-top: 1px solid #4458dc ;
+}/*------ End of Navbar ------------*/
+
+/*------ START of Banner Area ---------*/
+.site-banner .site-title h3{
+   padding-top: 28%;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 400;
+}
+.site-banner .site-title h3::after{
+    content: "";
+    height: 2px;
+    width: 18vw;
+    background: rgb(44, 44, 44);
+    display: inline-block;
+    margin-left: 5%;
+    transform: translateY(-10x);
+}
+.site-banner .site-title h1{
+    font-size: 2.7rem;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 500;
+}
+.site-main .site-banner .site-title h4{
+    font-size: 1.5rem;
+}
+.banner-image .img-fluid{
+    padding: 3rem 0;
+    width: 90rem;
+}
+
+/*------- Button --------*/
+.button{
+    padding: .8rem 2.2rem;
+    font: normal 500 16px/20px var(--roboto);
+    position: relative;
+    border-radius: 16px;
+}
+.btn-primary{
+  background: var(--gradient-color);
+  background-clip: padding-box ;
+  color: whitesmoke;
+  transition: backgroud.6s ease;
+  box-shadow: var(box-shadow);
+}/*------x End of Banner Area x------*/
+
+/*--===== START ABOUT-ME AREA ========--*/
+.about{
+    padding-top: 8rem;
+}
+
+
+/*--===== END OF ABOUT-ME AREA ========--*/
+
+/*--===== START OF MY SKILL AREA ========--*/
+.skill{
+    padding-top: 6rem;
+}
+/*--== END OF SKILL AREA ==--*/
+
+
+/*--===== START OF PROJECTS AREA ========--*/
+.project-area{
+    margin-left: 3%;
+    margin-top: 9rem;
+
+    
+}
+.project-area .button-group button{
+    background: transparent;
+    border: none;
+    font-family: 'Rajdhani',sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 4rem;
+
+}
+
+.grid .title h5{
+    font-family: 'Rajdhani',sans-serif;
+    font-weight: 600;
+}
+
+button:fous,
+button:active
+button:hover
+.btn:active
+.btn.active{
+    outline: 0px;
+    box-shadow: none;
+}
+.project-card:hover{
+    -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75) ;
+    -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75) ;
+    box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75) ;
+}
+.project-card{
+    margin-bottom: 4rem;
+}
+/*--===== END OF PROJECTS AREA ========--*/
+
+
+
+#icons{
+    color: #08adb3;
+}
+
+/*---==>> START OF FOOTER SECTION >>==---*/
+footer{
+    background: rgba(0, 0, 0, 0.8);
+    overflow-x: hidden;
+    padding: 14vmin 18vmin;
+    margin-top: 8rem;
+}
+footer p >span{
+    color: #5a6dee;
+}
+footer input{
+    border: none !important;
+}
+footer input::placeholder{
+    color: white !important;
+}
+footer .input-group .input-group-text{
+  background: var(--gradient-color);
+  background-clip: padding-box ;
+  color: whitesmoke;
+  transition: backgroud.6s ease;
+  box-shadow: var(box-shadow);
+  border: none;
+}
+footer .column i{
+  color:#5a6dee
+}
+footer .column i + i{
+    padding: 0 0.5em;
+}/*--==<><><> END OF FOOTER SECTION <><><>==--*/
+
+
+
+
+
+   
+
+
+
+
+

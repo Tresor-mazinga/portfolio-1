@@ -1,0 +1,413 @@
+
+
+
+@media only screen and (max-width:768px){
+      .site-banner .site-title h1{
+    font-size: 1.7rem;
+    }
+    .site-banner button{
+    font-size: 1rem;
+    }
+    .site-banner .site-title h3,
+    .site-banner .site-title h4{
+    font-size: 1.3rem;
+    }
+   
+
+ /*---- Start of About-Area ----*/
+
+ .about .me{
+        text-align: left;
+    }
+    .about .me h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .about .me h1{
+        font-size: 21px;
+    }
+ /*---XX- End of About-Area -XX---*/
+
+/*---- Start of Services-Area -----*/
+  .skill .ability{
+        text-align: left;
+    }
+    .skill .ability h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .skill .ability h1{
+        font-size: 21px;
+    }
+    .skill .bars p{
+        font-size: 16px;
+        
+    }/*---xx- End of Skill-Area -xx----*/
+
+
+/*---- Start of Services-Area -----*/
+    .services-area .panel{
+       width: 19rem;
+       margin-left: 2.6rem;
+       margin-bottom: 1rem;  
+    }
+    .services-area .do{
+      text-align: left;
+    }
+    .services-area .do h3{
+     text-align: left;
+      font-size: 16px;
+      margin-top: 4rem;
+    }
+    .services-area .do h1{
+      font-size: 21px;
+    }
+
+    .services-area .panel h4{
+         font-size: 21px;
+    }/*---x- End Services-Area --x-----*/
+
+/*--->> Start of Projects-Area ----*/
+    .project-area .project-card{
+         width: 19rem !important;
+         margin-bottom: 3rem;
+          margin-left: 2rem;
+    }
+    .project-area .button-group button{
+        margin-right: 1rem;
+        font-size: 18px;
+    }
+    .project-area .project-title{
+        text-align: left;
+    }
+    .project-area .project-title h3{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .project-area .project-title h1{
+        font-size: 21px;
+        margin-bottom: 0.5rem;
+    }/*---x- End of Projects-Area --x-----*/
+
+    
+    .footer .col-md-5 input{
+            margin-left: -1rem;
+    }
+    .footer .col-md-2 h4{
+    margin-top: 1.3rem;
+    font-size: 16px;
+    }
+    .footer{
+        margin-top: 4rem;
+    }
+}
+@media only screen and (max-width:425px){
+     .site-banner .site-title h1{
+    font-size: 1.7rem;
+    }
+    .site-banner button{
+    font-size: 1rem;
+    }
+    .site-banner .site-title h3,
+    .site-banner .site-title h4{
+    font-size: 1.3rem;
+    }
+   
+
+ /*---- Start of About-Area ----*/
+
+ .about .me{
+        text-align: left;
+    }
+    .about .me h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .about .me h1{
+        font-size: 21px;
+    }
+ /*---XX- End of About-Area -XX---*/
+
+/*---- Start of Services-Area -----*/
+  .skill .ability{
+        text-align: left;
+    }
+    .skill .ability h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .skill .ability h1{
+        font-size: 21px;
+    }
+    .skill .bars p{
+        font-size: 16px;
+        
+    }/*---xx- End of Skill-Area -xx----*/
+
+
+/*---- Start of Services-Area -----*/
+    .services-area .panel{
+       width: 19rem;
+       margin-left: 2.6rem;
+       margin-bottom: 1rem;  
+    }
+    .services-area .do{
+      text-align: left;
+    }
+    .services-area .do h3{
+     text-align: left;
+      font-size: 16px;
+      margin-top: 4rem;
+    }
+    .services-area .do h1{
+      font-size: 21px;
+    }
+
+    .services-area .panel h4{
+         font-size: 21px;
+    }/*---x- End Services-Area --x-----*/
+
+/*--->> Start of Projects-Area ----*/
+    .project-area .project-card{
+         width: 19rem !important;
+         margin-bottom: 1rem;
+          margin-left: 2rem;
+    }
+    .project-area .button-group button{
+        margin-right: 1rem;
+        font-size: 18px;
+    }
+    .project-area .project-title{
+        text-align: left;
+    }
+    .project-area .project-title h3{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .project-area .project-title h1{
+        font-size: 21px;
+        margin-bottom: 0.5rem;
+    }/*---x- End of Projects-Area --x-----*/
+
+    
+    .footer .col-md-5 input{
+            margin-left: -1rem;
+    }
+    .footer .col-md-2 h4{
+    margin-top: 1.3rem;
+    font-size: 16px;
+    }
+    .footer{
+        margin-top: 4rem;
+    }
+}/**========= 425px=============*/
+
+@media only screen and (max-width:375px)
+{
+      .site-banner .site-title h1{
+    font-size: 2rem;
+    }
+    .site-banner button{
+    font-size: 1rem;
+    }
+    .site-banner .site-title h3,
+    .site-banner .site-title h4{
+    font-size: 1.3rem;
+    }
+   
+
+ /*---- Start of About-Area ----*/
+
+ .about .me{
+        text-align: left;
+    }
+    .about .me h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .about .me h1{
+        font-size: 21px;
+    }
+ /*---XX- End of About-Area -XX---*/
+
+/*---- Start of Services-Area -----*/
+  .skill .ability{
+        text-align: left;
+    }
+    .skill .ability h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .skill .ability h1{
+        font-size: 21px;
+    }
+    .skill .bars p{
+        font-size: 16px;
+        
+    }/*---xx- End of Skill-Area -xx----*/
+
+
+/*---- Start of Services-Area -----*/
+    .services-area .panel{
+       width: 19rem;
+       margin-left: 1.3rem;
+       margin-bottom: 3rem;  
+    }
+    .services-area .do{
+      text-align: left;
+    }
+    .services-area .do h3{
+     text-align: left;
+      font-size: 16px;
+      margin-top: 4rem;
+    }
+    .services-area .do h1{
+      font-size: 21px;
+    }
+
+    .services-area .panel h4{
+         font-size: 21px;
+    }/*---x- End Services-Area --x-----*/
+
+/*--->> Start of Projects-Area ----*/
+    .project-area .project-card{
+         width: 19rem !important;
+         margin-bottom: 1rem;
+          margin-left: 0.6rem;
+    }
+    .project-area .button-group button{
+        margin-right: 1rem;
+        font-size: 18px;
+    }
+    .project-area .project-title{
+        text-align: left;
+    }
+    .project-area .project-title h3{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .project-area .project-title h1{
+        font-size: 21px;
+        margin-bottom: 0.5rem;
+    }/*---x- End of Projects-Area --x-----*/
+
+    
+    .footer .col-md-5 input{
+            margin-left: -1rem;
+    }
+    .footer .col-md-2 h4{
+    margin-top: 1.3rem;
+    font-size: 16px;
+    }
+    .footer{
+        margin-top: 4rem;
+    }
+
+}/**========= End of375px=============*/
+
+
+@media only screen and (max-width:320px)
+{
+
+    .site-banner .site-title h1{
+    font-size: 2rem;
+    }
+    .site-banner button{
+    font-size: 1rem;
+    }
+    .site-banner .site-title h3,
+    .site-banner .site-title h4{
+    font-size: 1.3rem;
+    }
+    .about .me{
+        text-align: left;
+    }
+    .about .me h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .about .me h1{
+        font-size: 21px;
+    }
+    .skill .ability{
+        text-align: center;
+    }
+    .skill .ability h4{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .skill .ability h1{
+        font-size: 21px;
+    }
+    .skill .bars p{
+        font-size: 16px;
+        
+    }
+
+    .services-area .panel{
+       width: 17rem;
+       margin-left: 0.6rem;
+       margin-bottom: 1rem;  
+    }
+    .services-area .do{
+      text-align: left;
+    }
+    .services-area .do h3{
+     text-align: left;
+      font-size: 16px;
+      margin-top: 4rem;
+    }
+    .services-area .do h1{
+      font-size: 21px;
+    }
+
+    .services-area .panel h4{
+         font-size: 21px;
+    }/*---x- End Services-Area --x-----*/
+
+    /*------>- Project-Area ->------*/
+    .project-area .project-card{
+         margin-left: 0.0rem;
+         margin-bottom: 3rem;
+          width: 17rem !important;
+    }
+    .project-area .button-group button{
+        margin-right: 1rem;
+        font-size: 18px;
+    }
+    .project-area .project-title{
+        text-align: left;
+    }
+    .project-area .project-title h3{
+        font-size: 16px;
+        margin-top: 4rem;
+    }
+    .project-area .project-title h1{
+        font-size: 21px;
+        margin-bottom: -1rem;
+    }/*----x- End Project-Area -x------*/
+.footer{
+    margin-top: 4rem;
+}
+.footer .contact-me{
+    font-size: 16px;
+}
+.footer .col-md-5 input{
+  margin-left: -1rem;
+}
+.footer .news h4{
+    font-size: 16px !important;
+}
+.footer .contacts p{
+    font-size: 13px;
+  
+}
+.footer .col-md-2 h4{
+   margin-top: 1.3rem;
+   font-size: 16px;
+  
+}
+
+
+
+}
